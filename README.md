@@ -1,0 +1,2 @@
+# e-university-app
+This is a mobile based application made for university students and teachers. Using this application , tachers can upload their students marks , change their marks , send them notifications and students can make their own accounts and see their respective marks , the subjects that they have registered for , their profile and their average grade along with the notification if any send by the faculty .
